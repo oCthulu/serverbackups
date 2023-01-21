@@ -1,0 +1,15 @@
+{
+  "name": "underwater_base:dead_end",
+  "fallback": "underwater_base:dead_end",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "ub:paths/dead_end",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

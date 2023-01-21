@@ -1,0 +1,14 @@
+execute as @e[tag=sphere] at @s positioned ^ ^ ^60 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:grass_block
+execute as @e[tag=sphere] at @s positioned ^ ^ ^57 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^54 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^51 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^48 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^45 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^42 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:dripstone_block
+execute as @e[tag=sphere] at @s positioned ^ ^ ^30 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:dripstone_block
+execute as @e[tag=sphere] at @s positioned ^ ^ ^27 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:deepslate
+execute as @e[tag=sphere] at @s positioned ^ ^ ^24 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:deepslate
+execute as @e[tag=sphere] at @s positioned ^ ^ ^21 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:deepslate
+execute as @e[tag=sphere] at @s positioned ^ ^ ^18 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:magma_block
+execute as @e[tag=sphere] at @s positioned ^ ^ ^15 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:obsidian
+execute as @e[tag=sphere] at @s positioned ^ ^ ^12 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:bedrock
