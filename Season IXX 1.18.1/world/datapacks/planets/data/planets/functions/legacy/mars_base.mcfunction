@@ -1,0 +1,11 @@
+execute as @e[tag=sphere] at @s positioned ^ ^ ^40 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:red_sandstone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^37 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:red_sandstone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^34 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:red_sandstone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^31 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:red_sandstone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^28 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:red_sandstone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^25 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^22 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^19 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:stone
+execute as @e[tag=sphere] at @s positioned ^ ^ ^16 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:deepslate
+execute as @e[tag=sphere] at @s positioned ^ ^ ^13 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:deepslate
+execute as @e[tag=sphere] at @s positioned ^ ^ ^10 run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:bedrock
