@@ -1,0 +1,14 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_block"
+    },
+    "title": "Minecraft Improvements",
+    "description": "Various advancements included with the Minecraft Improvements datapack.",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+  }
+}

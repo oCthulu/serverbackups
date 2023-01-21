@@ -1,0 +1,1 @@
+execute as @a at @s if block ~ ~ ~ minecraft:stonecutter run function improvements:stonecutter_damage

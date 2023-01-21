@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stone_sword"
+    },
+    "title": "Screw You, Mojang",
+    "description": "Kill a turtle for its shell.",
+    "background": "expindustry:textures/gui/advancements/backgrounds/industry.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "improvements:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:turtle"
+        }
+      }
+    }
+  }
+}
